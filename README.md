@@ -1,6 +1,6 @@
 
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
-![MasterHead](<iframe src="https://gifer.com/embed/6M8G" width=480 height=307.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>)
+![MasterHead](https://gifer.com/embed/6M8G)
 <!-- ![MasterHead](https://i.gifer.com/6ELx.gif) -->
 <h1>Hi 👋, I'm Arijit Saha</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
