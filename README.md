@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arijit-101&show_icons=true&locale=en&theme=tokyonight" alt="arijitsaha" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arijit-101&&theme=tokyonight" alt="arijitsaha" /></p>
+<p><img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit-101&&theme=tokyonight" alt="arijitsaha" /></p>
