@@ -3,6 +3,7 @@
 
 
 ![MasterHead](https://i.gifer.com/6M8G.gif)
+<img src="https://i.gifer.com/6M8G.gif" alt="Heading"/>
 <!-- ![MasterHead](https://i.gifer.com/6ELx.gif) -->
 <h1>Hi 👋, I'm Arijit Saha</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
