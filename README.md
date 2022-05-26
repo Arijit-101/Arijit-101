@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I am Funny**
 
 <p>
-<h3>Connect with me:</h3> 
+<h3>Connect with me</h3> 
 <a href="https://linkedin.com/in/arijit-saha-a671b81a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arijit-saha-a671b81a0" height="30" width="40" /></a>
 <a href="https://instagram.com/terrible_iso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="terrible_iso" height="30" width="40" /></a>
 </p>
