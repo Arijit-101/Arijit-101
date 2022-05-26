@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-    <div>
+    <p>
         <h1>Programming Languages that i know about</h1>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img
@@ -72,9 +72,9 @@
             />
         </a>
         
-    </div>
+    </p>
 
-    <div>
+    <p>
         <h1>Frontend Development</h1>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
             <img
@@ -116,9 +116,9 @@
                 height="40"
             />
         </a>
-    </div>
+    </p>
 
-    <div>
+    <p>
         <h1>AI/ML</h1>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
             <img
@@ -145,9 +145,9 @@
             />
         </a>
 
-    </div>
+    </p>
 
-    <div>
+    <p>
         <h1>Database</h1>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img
@@ -157,9 +157,9 @@
                 height="40"
             />
         </a>
-    </div>
+    </p>
 
-    <div>
+    <p>
         <h1>Other</h1>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img
@@ -170,7 +170,7 @@
             />
         </a>
     
-    </div>	
+    </p>	
 	
 </p>
 
