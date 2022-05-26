@@ -35,12 +35,12 @@
 <h2>Others</h2>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-       
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit-101&show_icons=true&locale=en&ltheme=tokyonight" alt="arijit-101" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit-101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arijitsaha" /></p>
+
 
 <!-- Added -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit-101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arijitsaha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit-101&show_icons=true&locale=en&theme=tokyonight" alt="arijitsaha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit-101&&theme=tokyonight" alt="arijitsaha" /></p>
