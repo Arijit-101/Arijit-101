@@ -1,10 +1,6 @@
 
-![MasterHead][https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif][https://tenor.com/bGD1m.gif]
+<!-- ![MasterHead](https://tenor.com/bGD1m.gif) -->
 
-
-![MasterHead](https://i.gifer.com/6M8G.gif)
-
-<!-- ![MasterHead](https://i.gifer.com/6ELx.gif) -->
 <h1>Hi 👋, I'm Arijit Saha</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
