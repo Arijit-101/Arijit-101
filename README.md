@@ -10,9 +10,9 @@
 - 📫 How to reach me **arijitsaha3002@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
+<h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/arijit-saha-a671b81a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arijit-saha-a671b81a0" height="30" width="40" /></a>
 <a href="https://instagram.com/terrible_iso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="terrible_iso" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arijitsaha3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arijitsaha3000" height="30" width="40" /></a>
