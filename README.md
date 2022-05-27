@@ -43,7 +43,15 @@ Others
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <h2>Projects :</h2>
-&#8226; <a href="https://arijit-101.github.io/React-WeatherApp/" target="_blank" rel="noreferrer"> Weather App using React </a>
+&#8226; <a href="https://github.com/Arijit-101/My-Spotify-Clone-App" target="_blank" rel="noreferrer">Spotify Clone App</a>
+<br>
+&#8226; <a href="https://arijit-101.github.io/React-WeatherApp/" target="_blank" rel="noreferrer">Weather App</a>
+<br>
+&#8226; <a href="https://arijit-101.github.io/Travel-website/" target="_blank" rel="noreferrer">Travel-website</a>
+<br>
+&#8226; <a href="https://github.com/Arijit-101/Diabetes-Prediction-Using-ML" target="_blank" rel="noreferrer">Diabetes Prediction Using ML</a>
+<br><br><br>
+
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit-101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arijitsaha" /></p>
 
